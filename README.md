@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/eb701981-34ea-4584-a245-c930f9aa568a)# AtliQ Hospitality Analysis Using PowerBI
+# AtliQ Hospitality Analysis Using PowerBI
 
 Welcome to the AtliQ Grand Hospitality Dashboard project! This project was created to provide insightful data analysis for AtliQ Grand, a luxury hotel chain facing revenue challenges in India's competitive hospitality market. Using Power BI and a comprehensive dataset, the dashboard provides crucial insights for strategic decision-making.
 
