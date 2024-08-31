@@ -24,8 +24,8 @@ The dashboard includes the following key business metrics:
 5.	Realization %
 6.	Total Bookings
 7.	DBRN (Daily Booked Room Nights)
-8.	DSRN – (Daily Sellable Room Nights)
-9.	DURN – (Daily Utilized Room Nights)
+8.	DSRN (Daily Sellable Room Nights)
+9.	DURN (Daily Utilized Room Nights)
 
 ### Data Model
 <img width="1006" alt="Screenshot 2024-08-31 at 9 06 55 PM" src="https://github.com/user-attachments/assets/43d9bde1-7157-4776-97f8-f42122d2c893">
